@@ -1,0 +1,2 @@
+# Industrial-IoT-Dataset-Synthetic-
+基于机器学习的对于工业物联网机器的使用寿命和七天内是否故障分别做回归预测和分类的项目
